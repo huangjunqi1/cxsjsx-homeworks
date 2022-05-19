@@ -5,4 +5,4 @@
 ### Problem D 奇怪的类复制
 ### Problem E 魔兽世界之一：备战
 `ProbE.md`
-refer to [](https://github.com/huangjunqi1/cxsjsx-WarCraft/blob/main/WarCraft1.cpp)
+refer to https://github.com/huangjunqi1/cxsjsx-WarCraft/blob/main/WarCraft1.cpp
